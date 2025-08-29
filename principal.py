@@ -1,1 +1,2 @@
-print("Principal")
+print("principal")
+print("principal2")
